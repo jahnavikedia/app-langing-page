@@ -1,0 +1,36 @@
+#mainh1{
+ font-weight: 400;
+}
+
+body {
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 1rem;
+    line-height: 1.5;
+    color: #373a3c;
+}
+
+.top-content{
+    color:#343A40;
+}
+
+.jumbotron{
+    background-image: linear-gradient(#13d9ff,rgba(255, 255, 0, 0.644));
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#footer-main{
+    background-color:#343A40;
+    background-size:cover;
+    height:500px;
+    width:100%;
+}
+
+.last-text{
+    padding-top:130px;
+    color:#2B8297;
+}
+
+#appstore{
+    width:200px;
+}
